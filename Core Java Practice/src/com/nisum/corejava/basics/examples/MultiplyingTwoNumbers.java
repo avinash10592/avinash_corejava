@@ -2,9 +2,9 @@ package com.nisum.corejava.basics.examples;
 
 public class MultiplyingTwoNumbers {
 	public static void main(String[] args) {
-		int a = 50;
-		int b = 30;
-		int mul = a * b;
+		int num1 = 50;
+		int num2 = 30;
+		int mul = num1 * num2;
 		System.out.println(mul);
 	}
 
