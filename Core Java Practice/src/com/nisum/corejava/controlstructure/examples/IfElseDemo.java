@@ -17,7 +17,7 @@ public class IfElseDemo {
 
 		int testscore = 76;
 		char grade;
-
+        // Using IfElse condition
 		if (testscore >= 90) {
 			grade = 'A';
 		} else if (testscore >= 80) {
