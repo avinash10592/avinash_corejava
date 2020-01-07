@@ -17,9 +17,9 @@ public class ExampleOfMultidimensional {
 		// declaring and initializing 2D array
 		int arr[][] = { { 1, 2, 3 }, { 2, 4, 5 }, { 4, 4, 5 } };
 		// printing 2D array
-		for (int i = 0; i < 3; i++) {
-			for (int j = 0; j < 3; j++) {
-				System.out.print(arr[i][j] + " ");
+		for (int in1 = 0; in1 < 3; in1++) {
+			for (int in2 = 0; in2 < 3; in2++) {
+				System.out.print(arr[in1][in2] + " ");
 			}
 			System.out.println();
 		}
