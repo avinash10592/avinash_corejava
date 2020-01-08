@@ -9,7 +9,7 @@ public class MultidimensionalJavaArray {
 			for (int in2 = 0; in2 < 3; in2++) {
 				System.out.print(arr[in1][in2] + " ");
 			}
-
+              System.out.println();
 		}
 	}
 }
