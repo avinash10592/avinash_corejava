@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.nisun.corejava.staticblock.examples;
+package com.nisum.corejava.staticblock.examples;
 
 /**
  * @author Nisum

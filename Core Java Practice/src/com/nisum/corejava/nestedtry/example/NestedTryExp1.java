@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.nosum.corejava.nestedtry.example;
+package com.nisum.corejava.nestedtry.example;
 
 /**
  * @author Nisum
