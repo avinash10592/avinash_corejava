@@ -23,8 +23,8 @@ public class Account {
 	// deposit method
 	void deposit(float amt) {
 		amount = amount + amt;
-		System.out.println("deposited amount "+amt );
-		
+		System.out.println("deposited amount " + amt);
+
 	}
 
 	// withdraw method
@@ -33,7 +33,7 @@ public class Account {
 			System.out.println("Insufficient Balance");
 		} else {
 			amount = amount - amt;
-			System.out.println( "withdrawn amount "+amt);
+			System.out.println("withdrawn amount " + amt);
 		}
 	}
 
@@ -45,7 +45,7 @@ public class Account {
 	// method to display the values of an object
 	void display() {
 		System.out.println("Account Deatils");
-		System.out.println("Account no: " +acc_no + " " + "Name: "+name);
+		System.out.println("Account no: " + acc_no + " " + "Name: " + name);
 	}
 }
 

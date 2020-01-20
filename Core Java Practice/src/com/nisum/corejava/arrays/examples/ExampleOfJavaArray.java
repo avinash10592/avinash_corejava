@@ -4,15 +4,15 @@ public class ExampleOfJavaArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a[] = new int[5];// declaration and instantiation
-		a[0] = 10;// initialization
-		a[1] = 20;
-		a[2] = 70;
-		a[3] = 40;
-		a[4] = 50;
-		for (int i = 0; i < a.length; i++)
+		int arr[] = new int[5];// declaration and instantiation
+		arr[0] = 10;// initialization
+		arr[1] = 20;
+		arr[2] = 70;
+		arr[3] = 40;
+		arr[4] = 50;
+		for (int in = 0; in < arr.length; in++)
 
-			System.out.println(a[i]);
+			System.out.println(arr[in]);
 
 	}
 

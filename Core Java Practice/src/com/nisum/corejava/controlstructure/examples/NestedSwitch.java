@@ -5,7 +5,7 @@ public class NestedSwitch {
 	      {  
 	      //C - CSE, E - ECE, M - Mechanical  
 	        char branch = 'C';                 
-	        int collegeYear = 4;  
+	        int collegeYear =4; 
 	        switch( collegeYear )  
 	        {  
 	            case 1:  
