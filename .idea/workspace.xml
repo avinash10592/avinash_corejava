@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="166055fb-88ac-4a53-a075-2f079a7464e9" name="Default Changelist" comment="Core Java POC's">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/EnumSwitch$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/garbagecollection/example/TestGarbage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/garbagecollection/example/TestGarbage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8" beforeDir="false" afterPath="$PROJECT_DIR$/../java8" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/multithreadmethods/example/MultiThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughForEachLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughIteratorInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/Serialization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/AdditionOfMatrices.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationBlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+              <folding>
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationStaticblock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/constructor/examples/Student2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/constructor/examples/Student1.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/garbagecollection/example/TestGarbage.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/garbagecollection/example/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/garbagecollection/example/Emlpoyee.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/garbagecollection/example/Employee1.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/interfaces/examples/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/singleinheritance/examples/shape.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleAnimal.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleShape.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelCar.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelAnimal.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/multilevelinheritance/examples/shape.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelShape.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalAnimal.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/hierarchicalinheritance/examples/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalTeacher.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/hybrideinheritance/example/Grandfather.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HybrideGrandfather.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/InterfaceEmployee.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/nestedtry/example/NestedTryExp2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyblockExmp1.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp3.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/multicatchexception/examples/MultipleCatchExp2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp1.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp3.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/NestedTryExp2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchrResolvetheException.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/InsufficientFundsException.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/BankDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/CheckingAccount.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/Doctor.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/AgeException.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/InvalidAgeException.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrow.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows1.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/thread/examples/Single.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/multithreadmethods/example/Single.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/thread/examples/TestSynchronization2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/TestSynchronization2.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationBlock.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationStaticblock.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizedRGB.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/multithreadmethods/example/MultiThread.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="width" value="1346" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Core Java Practice" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Core Java Practice" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Core Java Practice" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Core Java Practice" type="616d4139:PackageViewModuleNode" />
+              <item name="com.nisum.corejava" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionThroughForEachLoop.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="CollectionThroughIteratorInterface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Serialization.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.nisum.corejava.multithreadmethods.example" />
+      <recent name="com.nisum.corejava.trycatchfinallyexception.examples" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.nisum.corejava.userdefinedexception.examples" />
+      <recent name="com.nisum.corejava.garbagecollection.example" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AdditionOfMatrices">
+    <configuration name="AdditionOfMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nisum.corejava.arrays.examples.AdditionOfMatrices" />
+      <module name="Core Java Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nisum.corejava.arrays.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayList3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nisum.corejava.collection.examples.ArrayList3" />
+      <module name="Core Java Practice" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="com.nisum.corejava.collection.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.nisum.corejava.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MulitThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nisum.corejava.multithreadmethods.example.MulitThread" />
+      <module name="Core Java Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nisum.corejava.multithreadmethods.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizationMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nisum.corejava.thread.synchronization.examples.SynchronizationMethod" />
+      <module name="Core Java Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nisum.corejava.thread.synchronization.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nisum.corejava.innerthreadcommunication.example.ThreadA" />
+      <module name="Core Java Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nisum.corejava.innerthreadcommunication.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayList3" />
+      <item itemvalue="Application.MulitThread" />
+      <item itemvalue="Application.SynchronizationMethod" />
+      <item itemvalue="Application.ThreadA" />
+      <item itemvalue="Application.AdditionOfMatrices" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdditionOfMatrices" />
+        <item itemvalue="Application.ArrayList3" />
+        <item itemvalue="Application.ThreadA" />
+        <item itemvalue="Application.SynchronizationMethod" />
+        <item itemvalue="Application.MulitThread" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166055fb-88ac-4a53-a075-2f079a7464e9" name="Default Changelist" comment="" />
+      <created>1578476043345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578476043345</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Core Java POC's">
+      <created>1578477120357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578477120357</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Core Java POC's">
+      <created>1578479185791</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578479185791</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Core Java POC's">
+      <created>1578481582426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578481582426</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Core Java POC's">
+      <created>1578484657732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578484657732</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Core Java POC's">
+      <created>1578487146002</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578487146002</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Core Java POC's">
+      <created>1578550688345</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578550688345</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Core Java POC's">
+      <created>1578575801524</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578575801524</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Core Java POC's">
+      <created>1578645211369</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578645211370</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Core Java POC's">
+      <created>1578645567503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578645567503</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Core Java POC's">
+      <created>1578648303767</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578648303767</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Core Java POC's">
+      <created>1578658841668</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578658841668</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Core Java POC's">
+      <created>1578907805147</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578907805147</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Core Java POC's">
+      <created>1578983029437</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578983029437</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Core Java POC's">
+      <created>1578986466537</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1578986466537</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Core Java POC's">
+      <created>1579180301815</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579180301815</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Core Java POC's">
+      <created>1579180437049</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579180437049</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2806354" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.31587562" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.31587562" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Core Java POC's" />
+    <option name="LAST_COMMIT_MESSAGE" value="Core Java POC's" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Core_Java_Practice$AdditionOfMatrices.ic" NAME="AdditionOfMatrices Coverage Results" MODIFIED="1579255036416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.nisum.corejava.arrays.examples.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/multilevelinheritance/examples/shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/hierarchicalinheritance/examples/Animals.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/hierarchicalinheritance/examples/Teacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/hybrideinheritance/example/Grandfather.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/interfaces/examples/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/InterfaceEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalAnimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalTeacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HybrideGrandfather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyblockExmp1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/NestedTryExp1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/NestedTryExp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="29" column="55" lean-forward="true" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyblockExmp1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/GeneratingtheExceptioninCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchCustomMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchException1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchException2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchrResolvetheException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/InvalidAgeException.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/WithoutException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/BankDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/CheckingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/InsufficientFundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizedRGB.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/Doctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/multithreadmethods/example/MultiThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationStaticblock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/AdditionOfMatrices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughForEachLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughIteratorInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/Serialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Core Java Practice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
