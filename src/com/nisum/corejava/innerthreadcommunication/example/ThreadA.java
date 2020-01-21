@@ -2,16 +2,16 @@ package com.nisum.corejava.innerthreadcommunication.example;
 
 public class ThreadA {
     public static void main(String[] args) {
-        ThreadB childthread = new ThreadB();
-        childthread.start();
-        synchronized (childthread) {
+        ThreadB thb = new ThreadB();
+        thb.start();
+        synchronized (thb) {
             System.out.println("Main thread trying to call wait() method");
             try {
-                childthread.wait();
+                thb.wait();
             } catch (InterruptedException e) {}
 
             System.out.println("Main Thread got notification");
-            System.out.println(childthread.total);
+            System.out.println(thb.total);
         }
     }
 }

@@ -20,6 +20,7 @@ class ArrayList_Methods {
         value.add(50);
         value.add(90);
         value.add(99);
+        value.add(101);
         // Removing objects in arraylist
         value.remove(2);
         value.remove(5);
