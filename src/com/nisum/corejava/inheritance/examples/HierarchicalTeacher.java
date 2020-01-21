@@ -1,4 +1,4 @@
-package com.nisum.corejava.inheritance;
+package com.nisum.corejava.inheritance.examples;
 
 public class HierarchicalTeacher {
     public void programming() {

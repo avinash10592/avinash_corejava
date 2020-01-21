@@ -1,4 +1,4 @@
-package com.nisum.corejava.inheritance;
+package com.nisum.corejava.inheritance.examples;
 
 public class MultiLevelShape {
     public void display() {
