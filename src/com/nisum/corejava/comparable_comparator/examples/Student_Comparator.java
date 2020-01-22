@@ -1,4 +1,4 @@
-package com.nisum.corejava.comparable_comparator;
+package com.nisum.corejava.comparable_comparator.examples;
 
 import com.nisum.corejava.util.MyLogger;
 
