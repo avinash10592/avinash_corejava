@@ -1,5 +1,7 @@
 package com.nisum.corejava.collection.examples.arraylist;
 
+import com.nisum.corejava.util.MyLogger;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -26,20 +28,25 @@ class ArrayList_Methods {
         value.remove(5);
         Collections.sort(value);
         // get() method
-        System.out.println("get value: " + value.get(0));
-        System.out.println("get value: " + value.get(3));
+        MyLogger.consoleLogger.info("get value: " + value.get(0));
+        MyLogger.consoleLogger.info("get value: " + value.get(3));
         //size() method
-        System.out.println("Size of collection: " + value.size());
+        MyLogger.consoleLogger.info("Size of collection: " + value.size());
         //contains() method
-        System.out.println("Contains the value: " + value.contains(99));
+        MyLogger.consoleLogger.info("Contains the value: " + value.contains(99));
         // indexof() method
-        System.out.println("Index value: " + value.indexOf(66));
+        MyLogger.consoleLogger.info("Index value: " + value.indexOf(66));
         //lastindexof() method
-        System.out.println("Lastindex value: "+value.lastIndexOf(99));
+        MyLogger.consoleLogger.info("Lastindex value: "+value.lastIndexOf(99));
         // Stream API...Lamda Expression forEach
         // value.forEach(System.out::println);
         // Traversing list through for-each loop
         for (int obj : value)
-            System.out.println(obj);
+            //System.out.println(obj);
+
+        MyLogger.consoleLogger.info(obj);
+        MyLogger.consoleLogger.info("Checking loggers config...");
+
+
     }
 }
