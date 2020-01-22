@@ -1,5 +1,7 @@
 package com.nisum.corejava.collection.examples.linkedhashset;
 
+import com.nisum.corejava.util.MyLogger;
+
 import java.util.LinkedHashSet;
 
 public class Linkedhashste_Methods {
@@ -22,14 +24,14 @@ public class Linkedhashste_Methods {
         // Remove() Method
         lhs.remove(3);
         // clone() Method
-        System.out.println("Clone() Method: " + lhs.clone());
-        System.out.println("contains() Method: " + lhs.contains(9));
+        MyLogger.consoleLogger.info("Clone() Method: " + lhs.clone());
+        MyLogger.consoleLogger.info("contains() Method: " + lhs.contains(9));
         // System.out.println("removeAll() Method: "+lhs.removeAll(lhs));
-        System.out.println("hashCode() Method: " + lhs.hashCode());
-        System.out.println("size() Method: " + lhs.size());
-        System.out.println("retainAll() Method for lhs1: " + lhs.retainAll(lhs1));
+        MyLogger.consoleLogger.info("hashCode() Method: " + lhs.hashCode());
+        MyLogger.consoleLogger.info("size() Method: " + lhs.size());
+        MyLogger.consoleLogger.info("retainAll() Method for lhs1: " + lhs.retainAll(lhs1));
         for (Integer object : lhs) {
-            System.out.println(object);
+            MyLogger.consoleLogger.info(object);
         }
 
     }

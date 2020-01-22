@@ -1,5 +1,7 @@
 package com.nisum.corejava.comparable_comparator;
 
+import com.nisum.corejava.util.MyLogger;
+
 import java.util.*;
 
 public class Student_Comparator {
@@ -39,18 +41,18 @@ class Simple {
         al.add(new Student_Comparator(106, "Ajay", 27));
         al.add(new Student_Comparator(105, "Jai", 21));
 
-        System.out.println("Sorting by Name:");
+        MyLogger.consoleLogger.info("Sorting by Name:");
 
         Collections.sort(al, new NameComparator());
         for (Student_Comparator st : al) {
-            System.out.println(st.rollno + " " + st.name + " " + st.age+"\n");
+            MyLogger.consoleLogger.info(st.rollno + " " + st.name + " " + st.age+"\n");
         }
 
-        System.out.println("Sorting by age:");
+        MyLogger.consoleLogger.info("Sorting by age:");
 
         Collections.sort(al, new AgeComparator());
         for (Student_Comparator st : al) {
-            System.out.println(st.rollno + " " + st.name + " " + st.age+"\n");
+            MyLogger.consoleLogger.info(st.rollno + " " + st.name + " " + st.age+"\n");
         }
     }
 }

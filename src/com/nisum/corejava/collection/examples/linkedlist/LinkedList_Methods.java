@@ -1,4 +1,6 @@
 package com.nisum.corejava.collection.examples.linkedlist;
+import com.nisum.corejava.util.MyLogger;
+
 import java.util.*;
 public class LinkedList_Methods {
     public static void main(String args[]){
@@ -32,25 +34,25 @@ public class LinkedList_Methods {
         name.add(4,"Riyaz");
 
         //clone() method
-        System.out.println("Clone of the Collection: "+name.clone());
+        MyLogger.consoleLogger.info("Clone of the Collection: "+name.clone());
 
         //getFirst() method
-        System.out.println("Get first name of the collection: "+name.getFirst());
+        MyLogger.consoleLogger.info("Get first name of the collection: "+name.getFirst());
 
         //getLast() method
-        System.out.println("Get last name of the Collection: "+name.getLast());
+        MyLogger.consoleLogger.info("Get last name of the Collection: "+name.getLast());
 
         //peekFirst() method
-        System.out.println("Peek first String of the collection: "+name.peekFirst());
+        MyLogger.consoleLogger.info("Peek first String of the collection: "+name.peekFirst());
 
         //peekLast() method
-        System.out.println("Peek last String of the collection: "+name.peekLast());
+        MyLogger.consoleLogger.info("Peek last String of the collection: "+name.peekLast());
         //indexOf() method
-        System.out.println("Index number of Anuj: "+name.indexOf("Anuj"));
+        MyLogger.consoleLogger.info("Index number of Anuj: "+name.indexOf("Anuj"));
         //size() method
-        System.out.println("Size of the list: "+name.size());
+        MyLogger.consoleLogger.info("Size of the list: "+name.size());
 
         for(String obj:name)
-            System.out.println(obj);
+            MyLogger.consoleLogger.info(obj);
     }
 }
