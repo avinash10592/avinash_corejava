@@ -1,5 +1,7 @@
 package com.nisum.corejava.comparable_comparator;
 
+import com.nisum.corejava.util.MyLogger;
+
 import java.util.*;
 
 class Student_Comparable implements Comparable<Student_Comparable> {
@@ -32,7 +34,7 @@ class Demo {
 
         Collections.sort(arrlst);
         for (Student_Comparable stu : arrlst) {
-            System.out.println(stu.rollno + " " + stu.name + " " + stu.age);
+            MyLogger.consoleLogger.info(stu.rollno + " " + stu.name + " " + stu.age);
         }
     }
 }
