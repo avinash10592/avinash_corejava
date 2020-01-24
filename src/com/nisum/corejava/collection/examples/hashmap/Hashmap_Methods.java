@@ -24,6 +24,7 @@ public class Hashmap_Methods {
         map.putAll(hashmap);
         MyLogger.consoleLogger.info("After invoking putAll() method "+map.entrySet());
 
+
         MyLogger.consoleLogger.info("Getting the value by key using get() method: "+map.get(107));
 
 
