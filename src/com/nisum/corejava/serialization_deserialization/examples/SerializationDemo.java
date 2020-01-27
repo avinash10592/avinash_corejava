@@ -20,7 +20,7 @@ public class SerializationDemo {
             out.close();
 
             fileOut.close();
-            System.out.printf("Serialized data is saved in C:\\Filehandling\\Serialize Demo.txt");
+            System.out.println("Serialized data is saved in C:\\Filehandling\\Serialize Demo.txt");
         } catch (IOException i) {
             i.printStackTrace();
         }
