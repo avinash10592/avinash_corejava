@@ -9,7 +9,7 @@ public class File_Reader {
         int data;
         // Read until the end of a file
         while ((data = f1.read()) != -1) {
-            System.out.println((char) data);
+            System.out.print((char) data);
         }
     }
 }
