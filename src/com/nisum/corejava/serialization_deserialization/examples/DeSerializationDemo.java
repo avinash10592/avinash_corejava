@@ -26,7 +26,7 @@ public class DeSerializationDemo {
         System.out.println("Name: " + emp.emp_Name);
         System.out.println("Emp_ID: " + emp.emp_Id);
         System.out.println("Address: " + emp.Address);
-        System.out.println("aadhar: " + emp.emp_Adhar);
+        System.out.println("Adhar: " + emp.emp_Adhar);
         System.out.println("Number: " + emp.phone_num);
     }
 }
