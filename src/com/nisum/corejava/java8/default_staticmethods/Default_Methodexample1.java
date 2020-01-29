@@ -1,9 +1,11 @@
 package com.nisum.corejava.java8.default_staticmethods;
 
+import com.nisum.corejava.util.MyLogger;
+
 interface Phone {
     void call();
     default void message() {
-        System.out.println("Sent");
+        MyLogger.consoleLogger.info("Sent");
     }
 }
 
@@ -26,7 +28,7 @@ public class Default_Methodexample1 {
 //        };
 //        ph.call();
         Phone ph= ()->{
-            System.out.println("Calling");
+            MyLogger.consoleLogger.info("Calling");
         };
         ph.call();
     }

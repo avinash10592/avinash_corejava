@@ -1,9 +1,11 @@
 package com.nisum.corejava.java8.default_staticmethods;
 
+import com.nisum.corejava.util.MyLogger;
+
 interface MyInterface {
 
     default void newMethod() {
-        System.out.println("Newly added default method");
+        MyLogger.consoleLogger.info("Newly added default method");
     }
 
     void existingMethod(String str);
@@ -12,7 +14,7 @@ interface MyInterface {
 interface MyInterface2 {
 
     default void newMethod() {
-        System.out.println("Newly added default method");
+        MyLogger.consoleLogger.info("Newly added default method");
     }
 
     void disp(String str);
@@ -21,16 +23,16 @@ interface MyInterface2 {
 public class Default_MethodExample2 implements MyInterface, MyInterface2 {
     // implementing abstract methods
     public void existingMethod(String str) {
-        System.out.println("String is: " + str);
+        MyLogger.consoleLogger.info("String is: " + str);
     }
 
     public void disp(String str) {
-        System.out.println("String is: " + str);
+        MyLogger.consoleLogger.info("String is: " + str);
     }
 
     //Implementation of duplicate default method
     public void newMethod() {
-        System.out.println("Implementation of default method");
+        MyLogger.consoleLogger.info("Implementation of default method");
     }
 
     public static void main(String[] args) {
