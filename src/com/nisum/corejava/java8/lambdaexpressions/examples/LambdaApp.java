@@ -1,5 +1,7 @@
 package com.nisum.corejava.java8.lambdaexpressions.examples;
 
+import com.nisum.corejava.util.MyLogger;
+
 @FunctionalInterface
 interface Cab { // when an Interface will have only one Abstract method we can say it as Functional Interface
     //void bookCab();//By Abstract method
@@ -38,13 +40,13 @@ public class LambdaApp {
         // Using Lambda Expression.
         Cab cab =(source,destination)->{
             int localVar=1000;
-            System.out.println("Uber_X Booked from "+source+" to "+destination+" !!Arriving Soon!!");
-            System.out.println("Static variable is: "+LambdaApp.staticvar);
-            System.out.println("local variable is: "+localVar);
+           MyLogger.consoleLogger.info("Uber_X Booked from "+source+" to "+destination+" !!Arriving Soon!!");
+            MyLogger.consoleLogger.info("Static variable is: "+LambdaApp.staticvar);
+            MyLogger.consoleLogger.info("local variable is: "+localVar);
             return 400.54;
         };
         double fare=cab.bookCab("Hyderabad","Nizambad");
-        System.out.println("Fare shall be: "+fare);
+        MyLogger.consoleLogger.info("Fare shall be: "+fare);
 
     }
 }
