@@ -9,7 +9,7 @@ package com.corejava.exceptionpropagation.examples;
  */
 public class TestExceptionPropagation2 {
 	void run1() {
-		@SuppressWarnings("unused")
+
 		int data = 50 / 0;
 	}
 
