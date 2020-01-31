@@ -12,9 +12,9 @@ public class Sort_Exmp {
         for (int loop=0;loop<=10;loop++){
             number.add(loop);
         }
-        List<Integer>sortedlist=number.stream()
+        List<Integer>value=number.stream()
                 .sorted((num1,num2)->-num1.compareTo(num2)).collect(Collectors.toList());
-        sortedlist.forEach(num -> MyLogger.consoleLogger.info(num));
+        value.forEach(num -> MyLogger.consoleLogger.info(num));
     }
 }
 
