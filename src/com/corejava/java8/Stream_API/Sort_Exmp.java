@@ -14,7 +14,7 @@ public class Sort_Exmp {
         }
         List<Integer>sortedlist=number.stream()
                 .sorted((num1,num2)->-num1.compareTo(num2)).collect(Collectors.toList());
-        sortedlist.forEach(num -> MyLogger.consoleLogger.info(+num));
+        sortedlist.forEach(num -> MyLogger.consoleLogger.info(num));
     }
 }
 
