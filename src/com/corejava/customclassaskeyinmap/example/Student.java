@@ -27,7 +27,7 @@ public class Student {
         return stu_name;
     }
 
-    public void setStu_section(String stu_branch) {
+    public void setStu_branch(String stu_branch) {
         this.stu_branch = stu_branch;
     }
 
