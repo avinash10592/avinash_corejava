@@ -1,16 +1,16 @@
 package com.corejava.mysql.examples;
 
 import com.corejava.util.MyLogger;
-//Step 1: importing the package (java.sql.*)
+
 import java.sql.*;
 
-public class Student_Table {
-    public static void main(String[] args)  throws Exception{
+public class Retrieve_AllDetailsFromTable {
+    public static void main(String[] args) {
 
         String url = "jdbc:mysql://localhost:3306/database1";
         String uname = "root";
         String password = "Lakshmi@2";
-        String query = "SELECT * FROM database1.employee_table where emp_id=103";
+        String query = "SELECT Username from .employee_table where emp_id=103";
 
         //Step 2: loading and registering the driver
         //registering the driver with forName method
@@ -22,12 +22,13 @@ public class Student_Table {
 
         //Step 3: establishing the connection with interface "Connection"
 
-
+        Statement st = null;
+        Connection con = null;
         try {
-            Connection con = DriverManager.getConnection(url, uname, password);
+            con = DriverManager.getConnection(url, uname, password);
 
             //Step 4: creating the statement
-            Statement st = con.createStatement();
+            st = con.createStatement();
 
             //Step 5: execute the query
             ResultSet rs = st.executeQuery(query);
@@ -41,12 +42,20 @@ public class Student_Table {
             MyLogger.consoleLogger.info(age);
             MyLogger.consoleLogger.info(department);
 
-            st.close();
-            con.close();
-        } catch (SQLException e) {
-            MyLogger.consoleLogger.info(e);
+
+        } catch (SQLException exception) {
+            MyLogger.consoleLogger.info(exception);
         }
         //Step 7: close
+        finally {
+            try {
+                st.close();
+                con.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+
+        }
 
     }
 }

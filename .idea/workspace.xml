@@ -2,15 +2,152 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="166055fb-88ac-4a53-a075-2f079a7464e9" name="Default Changelist" comment="Core Java POC's">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core Java Practice.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/abstractclass/example/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/abstractclass/example/MyMainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/abstractclass/example/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/arrays/examples/AdditionOfMatrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/arrays/examples/CloningArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/arrays/examples/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/arrays/examples/ExampleOfJavaArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/arrays/examples/ExampleOfMultidimensional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/arrays/examples/MultidimensionalJavaArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/arrays/examples/MultiplicationOfMatrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/basics/examples/AddingTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/basics/examples/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/basics/examples/MultiplyingTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/collection/examples/ArrayList2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/collection/examples/ArrayList3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/collection/examples/ArrayList4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/constructor/examples/Student2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/ElseDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/ElseifDemo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/EnumSwitch$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/garbagecollection/example/TestGarbage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nisum/corejava/garbagecollection/example/TestGarbage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/EnumSwitch$Day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/EnumSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/IfDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/IfElseDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/NestedFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/NestedSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/Nestedif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/controlstructure/examples/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/defaultconstructor/examples/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/finallyblock/examples/FinallyblockExmp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/garbagecollection/example/TestGarbage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/hashset/examples/HashSetExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/linkedhashset/examples/LinkedHashSet1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/objectsandclass/examples/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/objectsandclass/examples/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/CompareByEqualsMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/CompareToMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/ConcatenationByConcatMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/ConcatenationByOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/ConcatenationByOperator2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/OperatorMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/StringExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/SubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/strings/examples/UpperCaseEquals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/typecasting/example/TypeCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nisum/corejava/variableanddatatypes/examples/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/abstractclass/example/animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/AdditionOfMatrices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/CloningArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/ExampleOfJavaArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/ExampleOfMultidimensional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/MultidimensionalJavaArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/MultiplicationOfMatrices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/basics/examples/AddingTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/basics/examples/AddingTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/basics/examples/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/basics/examples/MultiplyingTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughIteratorInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/Serialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/constructor/examples/Student1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/constructor/examples/Student2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/ElseDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/ElseifDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/EnumSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/IfDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/IfElseDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/NestedFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/NestedSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/Nestedif.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/controlstructure/examples/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/defaultconstructor/examples/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyblockExmp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/garbagecollection/example/Employee1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/garbagecollection/example/TestGarbage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/hashset/examples/HashSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HybrideGrandfather.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/InterfaceEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/linkedhashset/examples/LinkedHashSet1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/multithreadmethods/example/MultiThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/objectsandclass/examples/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/objectsandclass/examples/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/staticblock/examples/MultiStaticBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/staticblock/examples/StaticBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/staticblock/examples/StaticMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/staticblock/examples/StaticVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/CompareByEqualsMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/CompareToMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/ConcatenationByConcatMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/ConcatenationByOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/ConcatenationByOperator2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/OperatorMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/StringBuilderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/StringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/SubString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/strings/examples/UpperCaseEquals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationStaticblock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyblockExmp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/GeneratingtheExceptioninCatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/NestedTryExp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/NestedTryExp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchCustomMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchException1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchException2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchrResolvetheException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/WithoutException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/typecasting/example/TypeCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/BankDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/InsufficientFundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nisum/corejava/variableanddatatypes/examples/DataTypes.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java8" beforeDir="false" afterPath="$PROJECT_DIR$/../java8" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -28,116 +165,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/multithreadmethods/example/MultiThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughForEachLoop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughIteratorInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/Serialization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/AdditionOfMatrices.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-              <folding>
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
-                <element signature="e#733#734#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-                <element signature="e#835#836#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationStaticblock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding>
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-                <element signature="e#626#627#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -219,7 +247,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -236,59 +264,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectionThroughForEachLoop.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectionThroughIteratorInterface.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Core Java Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core Java Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Serialization.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,11 +370,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.AdditionOfMatrices" />
       <item itemvalue="Application.ArrayList3" />
       <item itemvalue="Application.MulitThread" />
       <item itemvalue="Application.SynchronizationMethod" />
       <item itemvalue="Application.ThreadA" />
-      <item itemvalue="Application.AdditionOfMatrices" />
     </list>
     <recent_temporary>
       <list>
@@ -538,9 +514,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2806354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28517398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -584,340 +559,52 @@
     <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/hierarchicalinheritance/examples/Teacher.java" />
     <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/hybrideinheritance/example/Grandfather.java" />
     <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/interfaces/examples/Employee.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/InterfaceEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalAnimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalTeacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HybrideGrandfather.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyblockExmp1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/NestedTryExp1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/NestedTryExp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="29" column="55" lean-forward="true" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyblockExmp1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/GeneratingtheExceptioninCatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchCustomMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchException1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchException2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchrResolvetheException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/InterfaceEmployee.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelCar.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelAnimal.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/MultiLevelShape.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleShape.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/SingleAnimal.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalAnimal.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HierarchicalTeacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/inheritance/HybrideGrandfather.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyblockExmp1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/finallyblock/examples/FinallyBlockExmp3.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/NestedTryExp1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp3.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/NestedTryExp2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp3.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyBlockExmp2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/FinallyblockExmp1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/GeneratingtheExceptioninCatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/MultipleCatchExp2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchCustomMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchException1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchException2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/TryCatchrResolvetheException.java" />
     <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/InvalidAgeException.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/WithoutException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/BankDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/CheckingAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/InsufficientFundsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/trycatchfinallyexception/examples/WithoutException.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/BankDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/CheckingAccount.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/InsufficientFundsException.java" />
     <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizedRGB.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/Doctor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/multithreadmethods/example/MultiThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-          <folding>
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationStaticblock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/AdditionOfMatrices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughForEachLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughIteratorInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/Serialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/userdefinedexception/examples/Doctor.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrow.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/throwthrows/example/TestThrows2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/multithreadmethods/example/MultiThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/innerthreadcommunication/example/ThreadA.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationMethod.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationBlock.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/thread/synchronization/examples/SynchronizationStaticblock.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/exceptionpropagation/examples/TestExceptionPropagation2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/arrays/examples/AdditionOfMatrices.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughForEachLoop.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/CollectionThroughIteratorInterface.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/nisum/corejava/collection/examples/Serialization.java" />
   </component>
   <component name="masterDetails">
     <states>
